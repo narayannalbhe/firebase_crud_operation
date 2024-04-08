@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "3588962029",
+    "project_id": "fir-crudoperation-3010f",
+    "storage_bucket": "fir-crudoperation-3010f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:3588962029:android:15987c79918adddff2bee4",
+        "android_client_info": {
+          "package_name": "com.example.firebase_crud_operation"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQ0j2zadl21jshgbbfREjVoiZv7desBoM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:3588962029:android:9a20eb2f567a831ef2bee4",
+        "android_client_info": {
+          "package_name": "com.example.firebase_display"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQ0j2zadl21jshgbbfREjVoiZv7desBoM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
